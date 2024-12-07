@@ -1,5 +1,5 @@
 //Maia Laikow 119062/7 y Gianluca Laura 121642/3
-//https://youtu.be/XKSex74IblQ?si=-imH0omKdUZoaBPQ
+//https://youtu.be/y3bNYm-BTyE?si=nu8JUZskeXYraP4F
 
 let objJuego;
 let imgPersonaje, imgBala, imgMeteorito, imgCiudadIntacta, imgCiudadDañada, imgCiudadDestruida;
